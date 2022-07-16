@@ -1,3 +1,6 @@
+//profe no pudimos hacer que se ejecute el estado 4 que es lo que muestra la pantalla de ganaste, lo intentamos hacer con una condición de una variable que se llama tiempo y aumenta todo el tiempo pero que si es mayor a 20 ahí se cambiaría de pantalla. El problema es que esa variable aumenta de a 1 en teoría pero no pudimos hacer el cálculo para que equivalga a un segundo real
+
+
 String []textosDePantallas= new String[6];
 String estado;
 float d = dist(mouseX, mouseY, 400, 350);
